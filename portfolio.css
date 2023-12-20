@@ -25,14 +25,15 @@ body{
     flex-direction: row;
     justify-content: center;
 }
-#flex-container {display: flex; 
-    flex-direction: row;
-    justify-content: center;
-}
 #flex-container div{
     width: 30%;
     margin:1vw;
     background-color:rgba(0, 0, 0, 0.6); 
+}
+div{
+    margin: 1vw;
+    padding:3vw
+border-radius:30px;    
 }
 nav li{
     display:inline;
@@ -48,9 +49,4 @@ color:teal;
 nav a{
 font-weight: 2vw;
 text-decoration:none;
-}
-div{
-    margin: 1vw;
-    padding:3vw
-border-radius:30px;    
 }
