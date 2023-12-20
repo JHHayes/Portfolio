@@ -17,13 +17,13 @@ div{
     padding:3vw
     width: 30%;
     margin:1vw;
-    background-color:rgba(0, 0, 0, 0.6); 
+    background-color:rgba(0, 0, 0, 0.3); 
 }
 nav li{
     display:inline;
     width: 30%;
     margin:1vw;
-    background-color:rgba(0, 0, 0, 0.6); 
+    background-color:rgba(0, 0, 0, 0.3); 
 }
 nav ul{
 list-style-type: none;
@@ -41,7 +41,7 @@ text-decoration:none;
 #about-me div{
     width: 30%;
     margin:1vw;
-    background-color:rgba(0, 0, 0, 0.6); 
+    background-color:rgba(0, 0, 0, 0.3); 
 }
 #contact-me{display: flex; 
     flex-direction: row;
@@ -50,5 +50,5 @@ text-decoration:none;
 #contact-me div{
     width: 30%;
     margin:1vw;
-    background-color:rgba(0, 0, 0, 0.6); 
+    background-color:rgba(0, 0, 0, 0.3); 
 }
