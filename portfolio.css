@@ -5,8 +5,8 @@ background-color: white;
 }
 
 #portfolio-preview{display: flex; 
-    flex-direction: row;
-    justify-content: center;
+    flex-direction: column-reverse;
+    justify-content: left;
 }
 #portfolio-preview div{
     width: 30%;
