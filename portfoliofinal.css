@@ -34,3 +34,12 @@ nav a{
 font-weight: 2vw;
 text-decoration:none;
 }
+#about-me{ display:flex; 
+    flex-direction: row;
+    justify-content: center;
+}
+#about-me div{
+    width: 30%;
+    margin:1vw;
+    background-color:rgba(0, 0, 0, 0.6); 
+}
