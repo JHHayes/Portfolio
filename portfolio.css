@@ -1,27 +1,15 @@
-#portfolio-preview{display:flex;
-    flex-direction: row;
-    flex-wrap:wrap;
-    justify-content: left;
 
-}
-#portfolio-preview div{
-   width: 25%; 
-      background-color: blue;
-      margin:1vw;
-      padding:3vw;
-    
-}
 body{
     background-image: url("hockney.png");
     background-size: cover;
     color: purple;
 }
 
-#flex-container {display: flex; 
+#portfolio-preview{display: flex; 
     flex-direction: row;
     justify-content: center;
 }
-#flex-container div{
+#portfolio-preview div{
     width: 30%;
     margin:1vw;
     background-color:rgba(0, 0, 0, 0.6); 
