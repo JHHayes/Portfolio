@@ -1,7 +1,9 @@
 #portfolio-preview{display:flex;
     flex-direction: row;
     flex-wrap:wrap;
-    justify-content: center;
+    justify-content: left;
+    padding:2vw;
+    margin:1vw;
 
 }
 #portfolio-preview div{
