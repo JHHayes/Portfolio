@@ -9,6 +9,9 @@
 #portfolio-preview div{
    width: 25%; 
       background-color: blue;
+      margin:1vw;
+      padding:3vw;
+    
 }
 body{
     background-image: url("hockney.png");
