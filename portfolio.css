@@ -5,7 +5,7 @@ background-color: white;
 }
 
 #portfolio-preview{display: flex; 
-    flex-direction: column-reverse;
+    flex-direction: row;
     justify-content: left;
 }
 #portfolio-preview div{
