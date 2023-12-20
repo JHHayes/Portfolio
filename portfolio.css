@@ -11,7 +11,7 @@
 body{
     background-image: url("hockney.png");
     background-size: cover;
-    color: orange;
+    color: purple;
 }
 
 #flex-container {display: flex; 
