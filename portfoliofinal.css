@@ -17,6 +17,7 @@ div{
     padding:3vw
     width: 30%;
     margin:1vw;
+    background-color:rgba(0, 0, 0, 0.6); 
 }
 nav li{
     display:inline;
