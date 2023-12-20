@@ -11,18 +11,34 @@
 body{
     background-image: url("hockney.png");
     background-size: cover;
+    color: white;
 }
-nav a{
-    font-weight: 2vw;
-    text-decoration:none;
-    }
-nav li{
-    display:inline;
-    padding:3vw;
-    font-size:1vw;
-    margin:1vw;
-    }
+
 #flex-container {display: flex; 
     flex-direction: row;
     justify-content: center;
+}
+#flex-container {display: flex; 
+    flex-direction: row;
+    justify-content: center;
+}
+#flex-container div{
+    width: 30%;
+    margin:1vw;
+    background-color:rgba(0, 0, 0, 0.6); 
+}
+nav li{
+    display:inline;
+padding:3vw;
+font-size:1vw;
+margin:1vw;
+}
+nav ul{
+list-style-type: none;
+text-align: center;
+color:teal;
+}
+nav a{
+font-weight: 2vw;
+text-decoration:none;
 }
