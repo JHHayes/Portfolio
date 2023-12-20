@@ -2,7 +2,7 @@
 body{
     background-image: url("hockney.png");
     background-size: cover;
-    color: purple;
+    color: greenyellow;
 }
 
 #portfolio-preview{display: flex; 
