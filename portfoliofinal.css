@@ -36,7 +36,7 @@ text-decoration:none;
 }
 #about-me{ display:flex; 
     flex-direction: row;
-    justify-content: center;
+    justify-content: left;
 }
 #about-me div{
     width: 30%;
@@ -45,7 +45,7 @@ text-decoration:none;
 }
 #contact-me{display: flex; 
     flex-direction: row;
-    justify-content: center;
+    justify-content: left;
 }
 #contact-me div{
     width: 30%;
