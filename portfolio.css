@@ -5,7 +5,7 @@
 
 }
 #portfolio-preview div{
-   width: 50%; 
+   width: 25%; 
       background-color: blue;
 }
 body{
@@ -41,4 +41,9 @@ color:teal;
 nav a{
 font-weight: 2vw;
 text-decoration:none;
+}
+div{
+    margin: 1vw;
+    padding:3vw
+    
 }
