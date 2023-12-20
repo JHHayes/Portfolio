@@ -1,31 +1,23 @@
-#portfolio-preview{display:flex;
-    flex-direction: row;
-    flex-wrap:wrap;
-    justify-content: center;
 
-}
-#portfolio-preview div{
-   width: 50%; 
-      background-color: blue;
-}
-html{
+body{
     background-image: url("hockney.png");
     background-size: cover;
     color: purple;
 }
 
-#flex-container {display: flex; 
+#portfolio-preview{display: flex; 
     flex-direction: row;
     justify-content: center;
 }
-#flex-container {display: flex; 
-    flex-direction: row;
-    justify-content: center;
-}
-#flex-container div{
+#portfolio-preview div{
     width: 30%;
     margin:1vw;
     background-color:rgba(0, 0, 0, 0.6); 
+}
+div{
+    margin: 1vw;
+    padding:3vw
+border-radius:30px;    
 }
 nav li{
     display:inline;
