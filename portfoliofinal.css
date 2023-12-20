@@ -8,7 +8,7 @@
    width: 50%; 
       background-color: blue;
 }
-body{
+html{
     background-image: url("hockney.png");
     background-size: cover;
     color: purple;
