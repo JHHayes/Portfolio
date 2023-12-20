@@ -50,3 +50,9 @@ text-decoration:none;
     margin:1vw;
     background-color:rgba(0, 0, 0, 0.3); 
 }
+p{
+    font-size:1.5vw;
+}
+h1{
+    font-size:3vw;
+}

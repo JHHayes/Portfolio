@@ -4,11 +4,11 @@ background-color: white;
     color: greenyellow;
 }
 
-#portfolio-preview{display: flex; 
+#flex-container{display: flex; 
     flex-direction: row;
-    justify-content: left;
+    justify-content: center;
 }
-#portfolio-preview div{
+#flex-container div{
     width: 30%;
     margin:1vw;
 }
