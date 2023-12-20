@@ -4,6 +4,8 @@
     justify-content: left;
     padding:2vw;
     margin:1vw;
+    height:auto;
+max-width:fit-content;
 
 }
 #portfolio-preview div{
